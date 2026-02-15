@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="350px" height="350px" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.2 (7799) - http://www.bohemiancoding.com/sketch -->
+    <title>5_white_circled</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="circled-white" sketch:type="MSLayerGroup">
+            <circle id="Oval-2" fill="#343434" sketch:type="MSShapeGroup" cx="175" cy="175" r="175"></circle>
+            <path d="M230,58.4982012 L230,95.6083706 C217.554286,95.4938452 215.281633,95.7157689 206.244898,95.6083706 C194.584082,95.4697605 187.83102,101.334642 187.899347,114.319023 C187.899347,122.041379 187.818776,133.852489 187.877551,141.81176 L228.530612,141.81176 C226.816327,155.572998 225.102041,169.33571 223.387755,183.099896 L187.877551,183.099896 L187.877551,289.023625 L145.510204,289.023625 L145.510204,183.099896 L110,183.099896 L110,141.81176 C121.835673,141.81176 133.674776,141.81176 145.513143,141.145989 C145.572653,110.882277 145.310122,99.3144723 146.979592,95.6083706 C152.266939,73.170235 168.644,58.5131927 193.510204,57.0236249 C198.57102,56.9417859 203.388163,57.1054639 208.44898,57.0236249 L230,58.4982012 Z" id="Color_Fill_1-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
